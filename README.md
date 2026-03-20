@@ -8,13 +8,14 @@
 
 ### About Me ❤️
 - 🎓 **BCS (Computer Science & Engineering)** student at American International University-Bangladesh (2025-Present)
-- 💻 Passionate about **C++**, **Java**, and **Problem Solving**
+- 💻 Passionate about **Python**, **C++**, **Java**, and **Problem Solving**
 - 🏆 Active on coding platforms: HackerRank, Codeforces, LeetCode
 - 📫 Email: [likhon28600@gmail.com](mailto:likhon28600@gmail.com)
 
 ---
 
 ### Technical Skills 💻
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge&logo=hackerrank&logoColor=white)
