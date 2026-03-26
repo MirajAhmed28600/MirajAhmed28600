@@ -6,7 +6,7 @@
 
 ---
 
-### About Me ❤️
+### About Me 
 - 🎓 **BCS (Computer Science & Engineering)** student at American International University-Bangladesh (2025-Present)
 - 💻 Passionate about **Python**, **C++**, **Java**, and **Problem Solving**
 - 🏆 Active on coding platforms: HackerRank, Codeforces, LeetCode
@@ -37,7 +37,7 @@
 
 ---
 
-### Connect With Me 🤝
+### Connect With Me 
 <p align="center">
   <a href="https://www.facebook.com/MIRAJAHMEDLIKHON">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
