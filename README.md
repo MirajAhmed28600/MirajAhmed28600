@@ -6,8 +6,8 @@
 
 ---
 
-### About Me 
-- 🎓 **BCS (Computer Science & Engineering)** student at American International University-Bangladesh (2025-Present)
+### About Me
+- 🎓 B.Sc. in Computer Science & Engineering American International University–Bangladesh 2025 – Present
 - 💻 Passionate about **Python**, **C++**, **Java**, and **Problem Solving**
 - 🏆 Active on coding platforms: HackerRank, Codeforces, LeetCode
 - 📫 Email: [likhon28600@gmail.com](mailto:likhon28600@gmail.com)
