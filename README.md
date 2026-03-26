@@ -23,7 +23,7 @@
 ---
 
 ### Coding Profiles 💻
-<p align="center">
+<p>
   <a href="https://www.hackerrank.com/profile/likhon28600">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
@@ -38,7 +38,7 @@
 ---
 
 ### Connect With Me 
-<p align="center">
+<p>
   <a href="https://www.facebook.com/MIRAJAHMEDLIKHON">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
