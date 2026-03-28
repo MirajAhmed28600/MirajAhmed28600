@@ -2,8 +2,6 @@
 
 ## Hey 👋, It's Miraj Ahmed!
 
-**visitors** ![Visitors](https://api.visitorbadge.io/api/visitors?path=MirajAhmed28600&label=visitors&countColor=%23263759)
-
 ---
 
 ### About Me
