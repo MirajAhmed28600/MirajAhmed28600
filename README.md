@@ -1,4 +1,4 @@
-## Hey 👋, It's Miraj Ahmed!
+## Hey 👋, It's Miraj Ahmed
 
 ---
 
