@@ -1,5 +1,3 @@
-# MirajAhmed28600
-
 ## Hey 👋, It's Miraj Ahmed!
 
 ---
