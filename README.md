@@ -1,49 +1,56 @@
-## Hey 👋, It's Miraj Ahmed
+<h1 align="center">Hey 👋, I'm Miraj Ahmed</h1>
+<h3 align="center">💻 CSE Student | Problem Solver 🚀</h3>
 
 ---
 
-### About Me
-- 🎓 B.Sc. in Computer Science & Engineering American International University–Bangladesh 2025 – Present
-- 💻 Passionate about **Python**, **C++**, **Java**, and **Problem Solving**
-- 🏆 Active on coding platforms: HackerRank, Codeforces, LeetCode
-- 📫 Email: [likhon28600@gmail.com](mailto:likhon28600@gmail.com)
+## 🧑‍💻 About Me
+- 🎓 B.Sc. in Computer Science & Engineering at American International University–Bangladesh (2025 – Present)
+- 💻 Passionate about **Java, C++, Python**
+- 🧠 Currently learning **OOP & Data Structures**
+- 🏆 Active on coding platforms
+- 📫 Email: **likhon28600@gmail.com**
 
 ---
 
-### Technical Skills 💻
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge&logo=hackerrank&logoColor=white)
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
+</p>
 
 ---
 
-### Coding Profiles 💻
-<p>
+## 🧠 Coding Profiles
+
+<p align="center">
   <a href="https://www.hackerrank.com/profile/likhon28600">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
   <a href="https://codeforces.com/profile/likhon_">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="50"/>
   </a>
   <a href="https://leetcode.com/u/Miraj_A_h_m_e_d/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50"/>
   </a>
 </p>
 
 ---
 
-### Connect With Me 
-<p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/likhon28600/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://www.facebook.com/MIRAJAHMEDLIKHON">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://twitter.com/Miraj_Ahm_ed">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/likhon28600/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.instagram.com/miraj_a_h_m_e_d/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+---
