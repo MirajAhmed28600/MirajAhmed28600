@@ -8,7 +8,6 @@
 - 💻 Passionate about Problem solving 
 - 🧠 Currently learning **OOP & Data Structures**
 - 🏆 Active on coding platforms
-- 📫 Email: **likhon28600@gmail.com**
 
 
 
