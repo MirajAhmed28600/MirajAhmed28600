@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Sc. in Computer Science & Engineering at American International University–Bangladesh (2025 – Present)
 - 💻 Passionate about Problem solving 
-- 🧠 Currently learning **OOP & Data Structures**
+- 🧠 Currently learning **Data Structure & Algorithm**
 - 🏆 Active on coding platforms
 
 
