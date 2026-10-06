@@ -1,60 +1,45 @@
-<h1 align="left">Hey 👋, I'm Miraj Ahmed</h1>
-<h3 align="left">💻 CSE Student</h3>
+About Me
+I'm a Computer Science & Engineering student at American International University–Bangladesh (AIUB) with a strong interest in problem solving, software engineering, and backend development.
+Currently, I'm strengthening my programming fundamentals while building my skills across modern web technologies and databases.
 
----
+* 🎓 B.Sc. in Computer Science & Engineering — AIUB
+* 💡 Interested in Software Engineering & Backend Development
+* 🧠 Practicing Data Structures & Algorithms with C++
+* 🌐 Learning JavaScript, TypeScript, React, Next.js & SQL
+* 🔧 Using Git & GitHub for version control and project management
+* 🚀 Long-term goal: Backend Engineering → AI/ML Engineering
+* 📚 Always learning, building, and improving
 
-## 🧑‍💻 About Me
-- 🎓 B.Sc. in Computer Science & Engineering at American International University–Bangladesh (2025 – Present)
-- 💻 Passionate about Problem solving 
-- 🧠 Currently learning **Data Structure & Algorithm**
-- 🏆 Active on coding platforms
+Tech Stack
+Programming Languages
+Web & Database
+Tools
+Problem Solving
+I regularly practice competitive programming and algorithmic problem solving to strengthen my understanding of:
 
+* Data Structures
+* Algorithms
+* Problem Solving
+* Time & Space Complexity
+* Competitive Programming
 
+Coding Profiles
+Current Focus
 
-## 🚀 Skills 
+```text
+C++ & DSA
+     ↓
+JavaScript / TypeScript
+     ↓
+React / Next.js
+     ↓
+SQL & Backend Development
+     ↓
+Software Engineering
+     ↓
+AI / ML Engineering
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
-</p>
+```
 
-
-
-## 🧠 Coding Profiles
-
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/likhon28600">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="50"/>
-  </a>
-  <a href="https://codeforces.com/profile/likhon_">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50"/>
-  </a>
-  <a href="https://leetcode.com/u/Miraj_A_h_m_e_d/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
-  </a>
-  <a href="https://www.codechef.com/users/miraj_ahmed">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="50"/>
-  </a>
-</p>
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/likhon28600/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/MIRAJAHMEDLIKHON">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50"/>
-  </a>
-  <a href="https://twitter.com/Miraj_Ahm_ed">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/miraj_a_h_m_e_d/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.youtube.com/@MirajAhmedlikhon">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50"/>
-  </a>
-</p>
-
----
+I'm currently focused on building strong fundamentals rather than rushing through technologies.
+Connect With Me
